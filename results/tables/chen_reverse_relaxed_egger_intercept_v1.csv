@@ -1,0 +1,3 @@
+"analysis_set","analysis_role","instrument_count","intercept","se","pval","nominal_p_lt_0_05","interpretation_rule","egger_precision_limitation"
+"relaxed_apoe_included","reverse_relaxed_exploratory_alternative_hb_outcome_sensitivity",10,0.000623719915152999,0.00203719758294697,0.767294791087545,FALSE,"no statistical evidence of directional pleiotropy detected","limited_number_of_instruments"
+"relaxed_apoe_excluded","reverse_relaxed_exploratory_alternative_hb_outcome_sensitivity",9,-0.00241988137702503,0.00241109189515301,0.348974293859074,FALSE,"no statistical evidence of directional pleiotropy detected","limited_number_of_instruments"

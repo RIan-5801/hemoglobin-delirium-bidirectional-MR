@@ -1,0 +1,5 @@
+"analysis_set","analysis_role","method","Q","df","pval","heterogeneity_p_lt_0_05","automatic_snp_removal_allowed"
+"APOE_included","reverse_relaxed_exploratory_main","MR Egger",13.9978473654953,8,0.0818215411154372,FALSE,FALSE
+"APOE_included","reverse_relaxed_exploratory_main","Inverse variance weighted",14.5594275205122,9,0.103770569454391,FALSE,FALSE
+"APOE_excluded","reverse_relaxed_apoe_exclusion_sensitivity","MR Egger",6.20571971551223,7,0.515944586563208,FALSE,FALSE
+"APOE_excluded","reverse_relaxed_apoe_exclusion_sensitivity","Inverse variance weighted",7.68251663947284,8,0.465080923955912,FALSE,FALSE

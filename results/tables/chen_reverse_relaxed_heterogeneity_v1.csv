@@ -1,0 +1,5 @@
+"analysis_set","analysis_role","method","Q","df","pval","heterogeneity_p_lt_0_05","automatic_snp_removal_allowed"
+"relaxed_apoe_included","reverse_relaxed_exploratory_alternative_hb_outcome_sensitivity","Inverse variance weighted",10.9855563392319,9,0.276700277014735,FALSE,FALSE
+"relaxed_apoe_included","reverse_relaxed_exploratory_alternative_hb_outcome_sensitivity","MR Egger",10.8583274124796,8,0.209856509108292,FALSE,FALSE
+"relaxed_apoe_excluded","reverse_relaxed_exploratory_alternative_hb_outcome_sensitivity","Inverse variance weighted",7.99154667351458,8,0.434296306064585,FALSE,FALSE
+"relaxed_apoe_excluded","reverse_relaxed_exploratory_alternative_hb_outcome_sensitivity","MR Egger",6.9842425117464,7,0.430522368221087,FALSE,FALSE

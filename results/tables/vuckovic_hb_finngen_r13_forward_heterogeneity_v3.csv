@@ -1,0 +1,5 @@
+"analysis_set","analysis_role","method","Q","Q_df","Q_pval"
+"APOE_included","forward_primary","MR Egger",319.413860400406,310,0.344202630410037
+"APOE_included","forward_primary","Inverse variance weighted",320.161868124385,311,0.348090503520771
+"APOE_excluded","forward_apoe_exclusion_sensitivity","MR Egger",320.641256643693,310,0.326618014011222
+"APOE_excluded","forward_apoe_exclusion_sensitivity","Inverse variance weighted",321.406396528558,311,0.330202310452076

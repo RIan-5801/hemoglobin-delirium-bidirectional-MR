@@ -1,0 +1,3 @@
+"analysis_set","analysis_role","intercept","se","pval","nominal_p_lt_0_05","interpretation_rule"
+"APOE_included","chen_forward_alternative_hb_gwas_sensitivity_main",0.000213812073724491,0.00262637559204459,0.935159336102649,FALSE,"no statistical evidence of directional pleiotropy detected; not proof of no pleiotropy"
+"APOE_excluded","chen_forward_alternative_hb_gwas_apoe_exclusion_sensitivity",-0.000430965344328533,0.00263432048309965,0.870136312578844,FALSE,"no statistical evidence of directional pleiotropy detected; not proof of no pleiotropy"

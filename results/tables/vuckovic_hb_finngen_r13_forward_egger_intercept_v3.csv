@@ -1,0 +1,3 @@
+"analysis_set","analysis_role","egger_intercept","se","pval"
+"APOE_included","forward_primary",0.00225282472588187,0.00264405445171949,0.394852871860693
+"APOE_excluded","forward_apoe_exclusion_sensitivity",0.00227847295994359,0.0026491241532497,0.39040663768258

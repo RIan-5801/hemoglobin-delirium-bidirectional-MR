@@ -1,0 +1,3 @@
+"analysis_set","analysis_role","nsnp","F_min","F_mean","F_median","F_max","F_lt_10_count"
+"APOE_included","forward_primary",312,29.7958494701098,104.584118178607,51.3635577857,2246.59251722594,0
+"APOE_excluded","forward_apoe_exclusion_sensitivity",312,29.7958494701098,104.376795815335,51.305036569609,2246.59251722594,0

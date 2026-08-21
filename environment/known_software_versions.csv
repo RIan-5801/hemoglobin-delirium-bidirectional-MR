@@ -1,0 +1,12 @@
+
+software,version,source,commit_or_sha,status
+R,4.6.1,R Project,,recorded in public renv.lock
+DBI,1.3.0,CRAN,,recorded in public renv.lock
+digest,0.6.39,CRAN,,recorded in public renv.lock
+duckdb,1.5.5,CRAN,,recorded in public renv.lock
+jsonlite,2.0.0,CRAN,,recorded in public renv.lock
+renv,1.2.3,CRAN,,recorded in public renv.lock
+TwoSampleMR,0.7.9,MRCIEU/TwoSampleMR,3d119f20d6fc164b0c7f710f5590fee9580f2c7b,recorded in public renv.lock and verified from frozen QC
+MRPRESSO,1.0,rondolab/MR-PRESSO,3e3c92d7eda6dce0d1d66077373ec0f7ff4f7e87,recorded in public renv.lock and verified from frozen QC
+psych,2.6.5,CRAN,,recorded in public renv.lock
+PLINK2,2026-05-04,PLINK2 official release,247491bfca7512e070dc99d6565e9fc56f3a52ad5afc01286016271d34c4992f,binary not redistributed

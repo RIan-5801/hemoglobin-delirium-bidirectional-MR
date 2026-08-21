@@ -1,0 +1,5 @@
+"analysis_set","analysis_role","method","method_id","Q","df","pval","heterogeneity_p_lt_0_05","automatic_snp_removal_allowed"
+"APOE_included","chen_forward_alternative_hb_gwas_sensitivity_main","MR Egger","mr_egger_regression",383.64012658648,378,0.409691941725104,FALSE,FALSE
+"APOE_included","chen_forward_alternative_hb_gwas_sensitivity_main","Inverse variance weighted","mr_ivw",383.646852991433,379,0.423757817984637,FALSE,FALSE
+"APOE_excluded","chen_forward_alternative_hb_gwas_apoe_exclusion_sensitivity","MR Egger","mr_egger_regression",387.256887943161,378,0.36011158514961,FALSE,FALSE
+"APOE_excluded","chen_forward_alternative_hb_gwas_apoe_exclusion_sensitivity","Inverse variance weighted","mr_ivw",387.284307146366,379,0.373382291417006,FALSE,FALSE

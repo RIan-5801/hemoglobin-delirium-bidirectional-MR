@@ -1,0 +1,5 @@
+"analysis_set","analysis_role","test_type","metric","value","pval","outlier_rsid","notes"
+"APOE_included","reverse_relaxed_exploratory_main","Global Test","RSSobs","27.0460458565777",0.1815,"","mr_presso_status=passed"
+"APOE_included","reverse_relaxed_exploratory_main","Outlier Test","outlier_count","0",,"","no_outlier_reported"
+"APOE_excluded","reverse_relaxed_apoe_exclusion_sensitivity","Global Test","RSSobs","9.50514708189135",0.5157,"","mr_presso_status=passed"
+"APOE_excluded","reverse_relaxed_apoe_exclusion_sensitivity","Outlier Test","outlier_count","0",,"","no_outlier_reported"

@@ -1,0 +1,3 @@
+"analysis_set","analysis_role","mr_presso_status","global_RSSobs","global_pval","outlier_count","outlier_rsids","mr_presso_error"
+"APOE_included","forward_primary","passed",322.26409099497,"0.3446",0,"",
+"APOE_excluded","forward_apoe_exclusion_sensitivity","passed",323.516113849629,"0.3257",0,"",

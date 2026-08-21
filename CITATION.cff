@@ -1,0 +1,17 @@
+
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying manuscript and this software release."
+title: "Analysis code for a bidirectional Mendelian randomization study of haemoglobin and delirium"
+type: software
+authors:
+  - family-names: "Yuan"
+    given-names: "Jie"
+version: 1.0.0
+date-released: 2026-08-21
+license: MIT
+repository-code: "https://github.com/RIan-5801/hemoglobin-delirium-bidirectional-MR"
+keywords:
+  - Mendelian randomization
+  - haemoglobin
+  - delirium
+  - GWAS
