@@ -1,12 +1,12 @@
-[![DOI](https://zenodo.org/badge/1341875967.svg)](https://doi.org/10.5281/zenodo.22047484)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22047484.svg)](https://doi.org/10.5281/zenodo.22047484)
 
 Archived release v1.0.0: https://doi.org/10.5281/zenodo.22047485
 
 # Haemoglobin and delirium: bidirectional Mendelian randomization
 
-This repository candidate contains the frozen analysis code and validated summary outputs for a bidirectional two-sample Mendelian randomization study of haemoglobin concentration and delirium.
+This repository contains the frozen analysis code and validated summary outputs for a bidirectional two-sample Mendelian randomization study of haemoglobin concentration and delirium.
 
-> **Release status:** `v1.0.0` upload package. The public environment is locked in `renv.lock`, and the frozen-result validator passed locally in R 4.6.1. Complete the private-repository inspection in `docs/release_steps.md` before changing the repository visibility to public.
+> **Release status:** public `v1.0.0`. The environment is locked in `renv.lock`, the frozen-result validator passed locally in R 4.6.1, and this release is archived on Zenodo under the version DOI [10.5281/zenodo.22047485](https://doi.org/10.5281/zenodo.22047485).
 
 ## Study design
 
