@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/1341875967.svg)](https://doi.org/10.5281/zenodo.22047484)
+
+Archived release v1.0.0: https://doi.org/10.5281/zenodo.22047485
 
 # Haemoglobin and delirium: bidirectional Mendelian randomization
 
